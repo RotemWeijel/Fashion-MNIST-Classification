@@ -29,5 +29,5 @@ The project consists of two main parts:
   - Dropout for regularization
 
 ## Results
-  - MLP on MNIST: ~87% accuracy
-  - CNN on Fashion-MNIST: ~90% accuracy
+  - MLP on MNIST: ~94% accuracy
+  - CNN on Fashion-MNIST: ~88% accuracy
