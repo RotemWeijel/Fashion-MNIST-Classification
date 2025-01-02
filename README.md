@@ -30,4 +30,4 @@ The project consists of two main parts:
 
 ## Results
   - MLP on MNIST: ~94% accuracy
-  - CNN on Fashion-MNIST: ~88% accuracy
+  - CNN on Fashion-MNIST: ~89% accuracy
